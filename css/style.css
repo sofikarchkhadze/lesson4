@@ -1,0 +1,157 @@
+.left-div{
+	display: inline-block;
+	background-color: #F8F8F8;
+	width: 536px;
+	height: 190px;
+	margin-top: 50px;
+	margin-right:16px ;
+	
+}
+.left-insidebox{
+	display: inline-block;
+	vertical-align: top;
+	width: 260px;
+	height: 62px;
+
+}
+.title1{
+	color: #5863F8;
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.description1{
+	color: #000000;
+	font-weight: 900;
+	font-size: 42px;
+	margin-bottom: 50px;
+}
+.food{
+	color: #5863F8;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.title2{
+	color: #000000;
+	font-weight: 600;
+	font-size: 18px;
+}
+.text1{
+	color: #B1B1B1;
+	font-weight: 400;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-right: 90px;
+	padding-bottom: 36px;
+	padding-left: 16px;
+}
+.right-div{
+	display: inline-block;
+	background-color: #BE2B2B;
+	width: 536px;
+	height: 190px;
+	
+}
+.right-insidebox{
+	display: inline-block;
+	vertical-align: top;
+	width: 260px;
+	height: 62px;
+}
+.desert{
+	color: #5863F8;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.title3{
+	color: #000000;
+	font-weight: 600;
+	font-size: 18px;
+}
+.text2{
+	color: #B1B1B1;
+	font-weight: 400;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-right: 90px;
+	padding-bottom: 36px;
+	padding-left: 16px;
+}
+.blog{
+	color: #5863F8;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 122px;
+}
+.description2{
+	color: #000000;
+	font-size: 42px;
+	font-weight: 900;
+	margin-top: 132px;
+}
+.right-div2{
+	display: inline-block;
+	background-color: #707070;
+	width: 352px;
+	height: 148px;
+	vertical-align: middle;
+	margin-right: 32px;
+	margin-top: 50px;
+	
+}
+.title4{
+	color: #5863F8;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	
+}
+.title5{
+	color: #000000;
+	font-size: 18px;
+	font-weight: 600;
+	padding-bottom: 10px;
+
+}
+.text3{
+	color: #B1B1B1;
+	font-size: 14px;
+	font-weight: 400;
+}
+.middle-div{
+	background-color: #707070;
+	display: inline-block;
+	width: 352px;
+	height: 148px;
+	vertical-align: middle;
+	margin-right: 32px;
+	margin-top: 50px;
+}
+.left-div2{
+	background-color: #707070;
+	display: inline-block;
+	width: 352px;
+	height: 148px;
+	vertical-align: middle;
+	margin-right: 32px;
+	margin-top: 50px;
+}
+.title6{
+	color: #5863F8;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.title7{
+	color: #000000;
+	font-size: 18px;
+	font-weight: 600;
+}
+.latinuri-relatiuri{
+	font-family: 'Roboto';
+
+}
